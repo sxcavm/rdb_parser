@@ -1,0 +1,3 @@
+/Users/anandmalviya08/CLionProjects/rdb-parser/cmake-build-debug/CMakeFiles/rdb_parser.dir
+/Users/anandmalviya08/CLionProjects/rdb-parser/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anandmalviya08/CLionProjects/rdb-parser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
